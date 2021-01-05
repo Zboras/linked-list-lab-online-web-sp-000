@@ -7,8 +7,8 @@
  let collection = {0: firstNode, 1: secondNode, 2: thirdNode, 3: fourthNode,4: fifthNode}
 
 
-function getName() {
-  
+function getName(index) {
+  return 
 }
 
 
