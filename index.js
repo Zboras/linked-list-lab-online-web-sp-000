@@ -35,7 +35,7 @@ function indexAt(node) {
 }
 
 function insertNodeAt() {
-  
+  if(index === 0) {
 }
 
 function deleteNodeAt() {
